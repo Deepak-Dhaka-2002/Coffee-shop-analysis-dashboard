@@ -1,3 +1,4 @@
 # Coffee-shop-analysis-dashboard
 Analyse and create dashboard of coffee shop 
-![Coffee sale doasboard](https://github.com/user-attachments/assets/0ab8245a-8252-4258-a570-27e8603e4b49)
+![Coffee shop sales dashboard](https://github.com/user-attachments/assets/13aab537-770b-4023-9ea0-8b9c828d211e)
+
